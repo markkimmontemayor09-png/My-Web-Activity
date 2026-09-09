@@ -17,9 +17,9 @@ export const heritageSites: HeritageSite[] = [
     town: 'Alaminos',
     tagline: 'Over a hundred limestone islands scattered across Lingayen Gulf.',
     heroImage:
-      '/images/hndrd-islnd.jpg',
+      '/My-Web-Activity/images/hndrd-islnd.jpg',
     cardImage:
-      '/images/hndrd-islnd.jpg',
+      '/My-Web-Activity/images/hndrd-islnd.jpg',
     description: [
       'Hundred Islands National Park is the Philippines\u2019 first national park, made up of 124 islands and islets at low tide off the coast of Alaminos City. The park is best explored by island-hopping boat, stopping at Governor\u2019s, Quezon, and Children\u2019s Islands for swimming, snorkeling, and short forest trails.',
       'The park anchors Pangasinan\u2019s marine tourism economy and is a protected area, with local guides and boat operators managing visitor access to reduce reef damage.',
@@ -42,9 +42,9 @@ export const heritageSites: HeritageSite[] = [
     town: 'Bolinao',
     tagline: 'The second-tallest lighthouse in the Philippines, standing since 1905.',
     heroImage:
-      '/images/bolinao.jpg',
+      '/My-Web-Activity/images/bolinao.jpg',
     cardImage:
-      '/images/bolinao.jpg',
+      '/My-Web-Activity/images/bolinao.jpg',
     description: [
       'Perched atop Punta Piedra Point, the Cape Bolinao Lighthouse has guided ships along the South China Sea since the early American colonial period. At roughly 22 meters tall, it remains one of the tallest lighthouses in the country and offers sweeping views of Bolinao\u2019s coastline.',
       'The site is a favorite sunset viewpoint and a short side trip from Bolinao\u2019s beaches, reefs, and the nearby Patar White Beach.',
@@ -67,9 +67,9 @@ export const heritageSites: HeritageSite[] = [
     town: 'Balungao',
     tagline: 'Mineral-rich pools tucked at the base of Mt. Balungao.',
     heroImage:
-      '/images/balungao.jpg',
+      '/My-Web-Activity/images/balungao.jpg',
     cardImage:
-      '/images/balungao.jpg',
+      '/My-Web-Activity/images/balungao.jpg',
     description: [
       'Balungao Hot Spring Resort sits at the foothills of Mt. Balungao in the eastern part of Pangasinan, drawing on natural mineral springs believed to have therapeutic properties. The resort area combines warm spring pools with cool swimming pools and picnic groves shaded by mature trees.',
       'It is a popular inland getaway for families and groups, offering a quieter, forested alternative to Pangasinan\u2019s coastal attractions.',
